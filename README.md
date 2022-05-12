@@ -10,3 +10,4 @@
 * [electron / electron](https://github.com/electron/electron)
 * [哔哩哔哩官方 App](https://app.bilibili.com)
 * [Bilibili: Golden_Water](https://space.bilibili.com/41925356)
+* [Big Sur style app icon](https://mac.macsc.com/macosicons)
